@@ -8,3 +8,4 @@ Some keywords that summarize my interests:
     *natural language processing
     *structural bioinformatics
 
+My previous blog is [at](https://msapaydin.wordpress.com)
