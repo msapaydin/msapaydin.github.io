@@ -1,4 +1,4 @@
-<h> Game AI vs. Industrial AI vs. academic AI </h>
+# Game AI vs. Industrial AI vs. academic AI 
 
 I have been teaching artificial intelligence related classes since 2015. I have also consulted industry for AI. Recently, I have also started teaching AI in digital games.
 What I can say that, even though the basics are the same, the AI for these three applications are different.
