@@ -18,8 +18,7 @@ twitter_username:
 use_math:
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
-
+google_analytics: nVtRRM-eIH37snc005nLosHFXBIWRhXhoxISOcbJXLI
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
 plugins:
