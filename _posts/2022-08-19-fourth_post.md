@@ -7,7 +7,7 @@ As such, a new area of work called "prompt engineering" arose, which consists of
 
 For instance, I read an [article](https://gazeteoksijen.com/yazarlar/zulfu-livaneli/abdulhamidin-paris-macerasi-158546) by Zulfu Livaneli in the (Turkish) newspaper [Oksijen](https://gazeteoksijen.com) about a visit by Ottoman Sultan Abdulaziz to the French city of Toulon.
 
-I thought the story was pretty interesting and tried to visualize how the visit must have taken place. I wish there was some kind of news media that had filmed the event. 
+I thought the story was pretty interesting and tried to visualize how the visit must have taken place. (The article contains an [illlustration](https://i.gazeteoksijen.com/storage/files/images/2022/07/28/unnamed-pISy.jpg) of the emperor's being received in Paris but not with his fleet in Toulon). I wish there was some kind of news media that had filmed the event. 
 So I tried various prompts to generate an image that reflects this historic visit. 
 I came up with this:
 
