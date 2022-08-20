@@ -11,8 +11,7 @@ A couple of weeks ago he wrote an article about a visit by Ottoman Sultan Abdula
 There was no picture in the newspaper article. So I tried various prompts to generate an image that reflects this historic visit. 
 I came up with this:
 
-![](DALL·E 2022-08-19 16.27.45 - a rendering of Ottoman Emperor Abdulaziz visiting France, arriving to Toulon with his fleet and being received by the French aristocracy .png)
-
+![Image description](images/DALL·E 2022-08-19 16.27.45 - a rendering of Ottoman Emperor Abdulaziz visiting France, arriving to Toulon with his fleet and being received by the French aristocracy .jpg)
 The prompt was:
 
 "a rendering of Ottoman Emperor Abdulaziz visiting France, arriving to Toulon with his fleet and being received by the French aristocracy".
