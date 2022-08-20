@@ -11,7 +11,7 @@ A couple of weeks ago he wrote an article about a visit by Ottoman Sultan Abdula
 There was no picture in the newspaper article. So I tried various prompts to generate an image that reflects this historic visit. 
 I came up with this:
 
-![Dall-e 2 illustration](images/figure1.png)
+![Dall-e 2 illustration](../images/figure1.png)
 
 The prompt was:
 
