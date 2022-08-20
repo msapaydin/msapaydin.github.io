@@ -11,7 +11,7 @@ I thought the story was pretty interesting and tried to visualize how the visit 
 So I tried various prompts to generate an image that reflects this historic visit. 
 I came up with this:
 
-![Dall-e 2 illustration](images/figure1.png)
+![Dall-e 2 illustration](../images/figure1.png)
 
 The prompt was:
 
