@@ -5,7 +5,7 @@ It accepts as input detailed text and generates an image corresponding to the te
 It is similar in spirit to OpenAI codex which accepts also a text string and generates code that is given in the query. 
 As such, a new area of work called "prompt engineering" arose, which consists of finding the right prompt to generate the desired piece of code or the desired image.
 
-For instance, I read an [article] (https://gazeteoksijen.com/yazarlar/zulfu-livaneli/abdulhamidin-paris-macerasi-158546)by Zulfu Livaneli in the newspaper called Oksijen, in Turkish about a visit by Ottoman Sultan Abdulaziz to the French city of Toulon.
+For instance, I read an [article] (https://gazeteoksijen.com/yazarlar/zulfu-livaneli/abdulhamidin-paris-macerasi-158546) by Zulfu Livaneli in the newspaper called Oksijen, in Turkish about a visit by Ottoman Sultan Abdulaziz to the French city of Toulon.
 
 I thought the story was pretty interesting and tried to visualize how the visit must have taken place. I wish there was some kind of news media that had filmed the event. 
 So I tried various prompts to generate an image that reflects this historic visit. 
