@@ -12,7 +12,7 @@ So I tried various prompts to generate an image that reflects this historic visi
 I came up with this:
 
 ![Dall-e 2 illustration](images/figure1.png)
-
+![test]({{https://github.com/msapaydin/msapaydin.github.io/blob/master/_posts/}}figure1.png "fast.ai's logo")
 The prompt was:
 
 "a rendering of Ottoman Emperor Abdulaziz visiting France, arriving to Toulon with his fleet and being received by the French aristocracy".
