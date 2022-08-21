@@ -18,3 +18,5 @@ The prompt was:
 "a rendering of Ottoman Emperor Abdulaziz visiting France, arriving to Toulon with his fleet and being received by the French aristocracy".
 
 Pretty interesting, isn't it?
+
+Update Aug 21: [The guardian article on Dall-e 2](https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists) talks about similar ideas already executed by major magazines such as the Economist.
